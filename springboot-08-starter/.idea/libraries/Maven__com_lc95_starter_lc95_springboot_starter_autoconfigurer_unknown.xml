@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.lc95.starter:lc95-springboot-starter-autoconfigurer:unknown">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/lc95/starter/lc95-springboot-starter-autoconfigurer/unknown/lc95-springboot-starter-autoconfigurer-unknown.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/com/lc95/starter/lc95-springboot-starter-autoconfigurer/unknown/lc95-springboot-starter-autoconfigurer-unknown-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/lc95/starter/lc95-springboot-starter-autoconfigurer/unknown/lc95-springboot-starter-autoconfigurer-unknown-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

@@ -1,0 +1,2 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+ com.lc95.starter.lc95springbootstarterautoconfigurer.HelloServiceAutoConfiguration

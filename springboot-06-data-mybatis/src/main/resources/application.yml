@@ -1,0 +1,14 @@
+spring:
+  datasource:
+    url: jdbc:mysql://localhost:3306/mybatis
+    username: root
+    password: admin
+    #    schema:
+    #    - classpath:sql/department.sql
+    #    - classpath:sql/employee.sql
+    dirver-class-name: com.mysql.jdbc.Driver
+    initialization-mode: always
+    type: com.alibaba.druid.pool.DruidDataSource
+mybatis:
+  config-location: classpath:mybatis/mybatis-config.xml
+  mapper-locations: classpath:mybatis/mapper/*.xml
